@@ -7,7 +7,6 @@ This project is the frontend interface for the DAO Sentinel system. It fetches r
 ## 📸 Preview
 
 ![Dashboard Screenshot](public/dashboard-preview.png)
-_(Disarankan: Upload screenshot dashboard-mu tadi ke sini)_
 
 ## 🚀 Tech Stack
 
